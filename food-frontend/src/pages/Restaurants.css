@@ -1,0 +1,18 @@
+
+.restaurant-card {
+  height: 350px;
+}
+
+.restaurant-img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.food-card {
+  height: 380px;
+}
+
+.food-img {
+  height: 180px;
+  object-fit: cover;
+}

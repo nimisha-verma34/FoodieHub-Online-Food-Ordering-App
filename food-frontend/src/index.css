@@ -1,0 +1,25 @@
+.bg-orange {
+  background-color: #ff5a1f;
+}
+
+.hero-section {
+  background-image: url("https://source.unsplash.com/1600x700/?food");
+  background-size: cover;
+  padding: 100px 20px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  width: 100%;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

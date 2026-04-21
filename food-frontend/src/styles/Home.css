@@ -1,0 +1,32 @@
+.hero {
+    min-height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1504674900247-0877df9cc836");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+  
+  .hero-inner {
+    padding-top: 80px;
+  }
+  
+  .hero-text h1 {
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  
+  .hero-image {
+    height: 350px;
+    border-radius: 20px;
+    background-image: url("https://images.unsplash.com/photo-1604908177522-29f2f1f2b6b8");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .features img {
+    width: 70px;
+    margin-bottom: 15px;
+  }
+  
